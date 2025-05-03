@@ -13,11 +13,12 @@
 # Evaluation
 Randomly chosen
 
-| Evalutee | Evaluators         |
-| -------- | ------------------ |
-| Alan     | Ming, Sergio, Jac  |
-| Jac      | Luigi, Alan, Ming  |
-| Ming     | Sergio, Jac, Luigi |
-| Luigi    | Alan, Ming, Sergio |
-| Sergio   | Jac, Luigi, Alan   |
+| Evalutee | Evaluators            |
+| -------- | --------------------- |
+| Alan     | Jac, Ming, Luigi      |
+| Jac      | Ming, Luigi, Sergio   |
+| Ming     | Luigi, Sergio, Alison |
+| Luigi    | Sergio, Alison, Alan  |
+| Sergio   | Alison, Alan, Jac     |
+| Alison   | Alan, Jac, Ming       |
 
