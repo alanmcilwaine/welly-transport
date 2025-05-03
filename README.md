@@ -11,7 +11,7 @@
 
 
 # Evaluation
-randomly chosen
+Randomly chosen
 
 | Evalutee | Evaluators         |
 | -------- | ------------------ |
