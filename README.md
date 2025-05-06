@@ -1,16 +1,18 @@
-# Animal roles
+# Timeline
+| Person | Week 9                       | week 10                                                                                   | week 11              | week 12        |
+| ------ | ---------------------------- | ----------------------------------------------------------------------------------------- | -------------------- | -------------- |
+| General goals | Fill in Heuristic evaluation by Saturday. Meeting Sunday. | Putting ideas together and get started on prototype and create design language for the whole app. Give roles and tasks to everyone. | Idealy finish the prototype | Prototype absolute deadline wednesday Make the video |
+| Alan   |  |  |  |  |
+| Jac    |  |                                                                                           |                      |                |
+| Ming   |  |                                                                                           |                      |                |
+| Luigi  |  |                                                                                           |                      |                |
+| Sergio |  |                                                                                           |                      |                |
+| Alison |  |                                                                                           |                      |                |
 
-| Animal | Role | Member |
-| ------ | ---- | ------ |
-| Bear   |      | Alan   |
-| Wolf   |      | Luigi  |
-| Cat    |      | Jac    |
-| Puppy  |      |        |
-| Owl    |      | Ming   |
-| Rabbit |      |        |
-
+Meeting: 4pm tuesday every week, more can be scheduled.
 
 # Evaluation
+
 Randomly chosen
 
 | Evalutee | Evaluators            |
@@ -22,3 +24,4 @@ Randomly chosen
 | Sergio   | Alison, Alan, Jac     |
 | Alison   | Alan, Jac, Ming       |
 
+##### 
