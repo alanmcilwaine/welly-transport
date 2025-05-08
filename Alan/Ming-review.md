@@ -1,9 +1,10 @@
 ## Heuristic Evaluation 
-Evaluator Name:
+Evaluator Name: Ming
 
 ## Top Recommendations
 
-- 
+- Consistency with icons
+- Put starred routs somewhere the user will be able to see immediatly upon opening the app and add option to starr routs
 
 ###  Severity Rating 
 
