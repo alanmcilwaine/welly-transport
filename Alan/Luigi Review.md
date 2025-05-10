@@ -1,6 +1,6 @@
 # Heuristic Evaluation
 
-Evaluator Name: Alan
+Evaluator Name: Luigi
 
 ## Top Recommendations
 
