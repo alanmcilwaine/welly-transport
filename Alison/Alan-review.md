@@ -4,7 +4,7 @@ Evaluator Name: Alan
 ## Top Recommendations
 
 - Implement a visible undo button to revert to an older state.
-- Have some way to pick a line or station without having to remember their names. This could be done through a map or directory of some kind.
+- Include help messages throughout a task. For example, if a search is not found, recommend to the user to press the navigation icon or to view a directory of lines/stations.
 
 ###  Severity Rating 
 
