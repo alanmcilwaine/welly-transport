@@ -2,9 +2,9 @@ SCRIPT 1st version
 
  Hello, and welcome to this brief walkthrough of the user flow in our mobile application.
 
-We begin at the Home Screen, which acts as the main navigation hub. From here, users can access several key features using a navigation bar.
+We begin at the Home Screen, which acts as the main navigation hub. Our idea with the home page is to minimize the amount of taps needed to get to information that may be important for Alex Sigh which is reflected in the recently used and favortes bar. Additionaly, these wigets on the home screen can be swapped out for further customization.
 
-One of these options leads to the Alert Page, where users can view important service notices. Once done, users can return directly to the Home Screen using the same navigation bar.
+We also have a navigation bar at the bottom. One of these options leads to the Alert Page, where users can view important service notices. Once done, users can return directly to the Home Screen using the same navigation bar.
 
 Another important feature is the Services Timetable. There are several ways to access it. One of them is from Home, where users can press a button corresponding to a bus or train line and view detailed timetable information. They can then easily return to Home using the return button.
 
