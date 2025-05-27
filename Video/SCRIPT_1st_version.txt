@@ -6,7 +6,7 @@ We begin at the Home Screen, which acts as the main navigation hub. Our idea wit
 
 We also have a navigation bar at the bottom. One of these options leads to the Alert Page, where users can view important service notices. Once done, users can return directly to the Home Screen using the same navigation bar.
 
-Another important feature is the Services Timetable. There are several ways to access it. One of them is from Home, where users can press a button corresponding to a bus or train line and view detailed timetable information. They can then easily return to Home using the return button.
+Another important feature is the Services Timetable. There are several ways to access it. One of them is from Home, where users can press a button corresponding to a bus or train line and view detailed timetable information. They can then easily return to Home using the return button, or the Home button on the navigation bar.
 
 Similarly, users can access the Service Stop Table in the same way, but this time by pressing a button with a stop ID. This displays specific information about that stop, upcoming lines, and the remaining time, and users can return to Home once they’re done.
 
@@ -16,7 +16,7 @@ Select a bus or train line, which leads to the Timetable, or
 
 Select a stop, which leads to the Stop Table.
 
-In both cases, users always have the option to go back to the Search Page and eventually return to Home.
+In both cases, users always have the option to go back to the Search Page and eventually return to Home, or return to Home directly using the navigation bar.
 
 Another key feature is the Route Planner, also accessible from the navigation bar on the main screen. In this section, users can:
 
