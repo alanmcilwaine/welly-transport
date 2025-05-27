@@ -1,0 +1,37 @@
+SCRIPT 1st version
+
+ Hello, and welcome to this brief walkthrough of the user flow in our mobile application.
+
+We begin at the Home Screen, which acts as the main navigation hub. From here, users can access several key features using a navigation bar.
+
+One of these options leads to the Alert Page, where users can view important service notices. Once done, users can return directly to the Home Screen using the same navigation bar.
+
+Another important feature is the Services Timetable. There are several ways to access it. One of them is from Home, where users can press a button corresponding to a bus or train line and view detailed timetable information. They can then easily return to Home using the return button.
+
+Similarly, users can access the Service Stop Table in the same way, but this time by pressing a button with a stop ID. This displays specific information about that stop, upcoming lines, and the remaining time, and users can return to Home once they’re done.
+
+From Home, users can also navigate to the Main Services Page using the navigation bar. From there, by pressing Search, they reach the Search Page, where they can:
+
+Select a bus or train line, which leads to the Timetable, or
+
+Select a stop, which leads to the Stop Table.
+
+In both cases, users always have the option to go back to the Search Page and eventually return to Home.
+
+Another key feature is the Route Planner, also accessible from the navigation bar on the main screen. In this section, users can:
+
+Select their origin and destination,
+
+View the suggested results,
+
+And then choose one of the available options.
+
+If the user wants to change their selection or adjust their search, they can return to the Planner or the Results screen.
+
+The design is intended to provide intuitive navigation, with easy access to transport and route information, and with clear back options at every stage.
+
+And that’s been a quick summary of the user flow in our app. The goal is to provide a smooth and user-friendly experience for accessing transport data and planning routes efficiently.
+
+Thank you for watching!
+
+
