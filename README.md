@@ -1,3 +1,6 @@
+# Prototype Link
+https://www.figma.com/proto/YTZG4wpHqOm3zaqFoJ5i6C/Designs-re-do?node-id=1-2326&t=USyhwMO6xF96u1YV-1
+
 # Timeline
 | Person | Week 9                       | week 10                                                                                   | week 11              | week 12        |
 | ------ | ---------------------------- | ----------------------------------------------------------------------------------------- | -------------------- | -------------- |
@@ -23,6 +26,16 @@ Randomly chosen
 | Luigi    | Sergio, Alison, Alan  |
 | Sergio   | Alison, Alan, Jac     |
 | Alison   | Alan, Jac, Ming       |
+
+# Animal Roles (re-added from the start of the course. Look at second commit.)
+| animal | member |
+| ------ | ------ |
+| Bear   | Alan   |
+| Wolf   | Luigi  |
+| Cat    | Jac    |
+| Puppy  | Sergio       |
+| Owl    | Ming   |
+| Rabbit | Alison       |
 
 
 
