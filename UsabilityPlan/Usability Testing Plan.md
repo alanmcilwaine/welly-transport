@@ -62,4 +62,6 @@ In order to make the testing process as simple as possible, we'll get you to per
 
 # Usability Goals
 
+The mobile app should achieve an average System Usability Scale (SUS) score of at least 68, indicating acceptable usability, with an optimal target of 75 or higher to reflect good to excellent usability [source](https://measuringu.com/sus/). This score should be measured through usability testing with representative users performing key travel-related tasks, such as planning a route, checking arrival times, and navigating through the app.
+
 # Problem Severity
