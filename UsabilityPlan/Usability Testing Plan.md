@@ -13,13 +13,18 @@ These objectives will be completed through analysis of data from test participan
 The intended user base of Team 12's Transport App are daily commuters in the Wellington region. Participants in testing consist of 4 groups of 6 students (expected) studying SWEN303 at Victoria University of Wellington.
 
 # Methodology:
-A minimum of 12 participants and a maximum of 24 will be acting as test users in usability testing which will be carried out in-person in lab rooms CO238 and CO242. Users will carry out testing with a prototype version of the app created in Figma.
+6-12 participants will be test users, who will carry out testing in-person in computer labs CO238 and CO234. Testing will be carried out on a Figma prototype version of the application.
 
 ## Participants
+Participants will be selected from other groups from Group C, working on similar applications. For this reason, they will be more familiar than the average first time user with the software engineering involved in creating this kind of system. As a result, we expect them to be more proficient at the tasks we present them with than the average user would be. This bias should be taken into account when reviewing the results of our tests.
 
 ## Training
 
+
 ## Procedure
+Testing will take place at a specific ECS machine, ideally in a designated quiet corner of one of the labs. The Facilitator will prepare the Figma prototype in a browser window on this machine, ensuring that it is on the application's home page and is the only thing on screen.
+
+The Facilitator will then guide the test participant to the designated machine, where the Note Taker will also be positioned. The Facilitator will 
 
 # The Script
 ## Intro
