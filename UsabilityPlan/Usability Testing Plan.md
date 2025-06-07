@@ -13,18 +13,20 @@ These objectives will be completed through analysis of data from test participan
 The intended user base of Team 12's Transport App are daily commuters in the Wellington region. Participants in testing consist of 4 groups of 6 students (expected) studying SWEN303 at Victoria University of Wellington.
 
 # Methodology:
-6-12 participants will be test users, who will carry out testing in-person in computer labs CO238 and CO234. Testing will be carried out on a Figma prototype version of the application.
+There will be 6-12 test users, who will carry out testing in-person in computer labs CO238 and CO234. Testing will be carried out on a Figma prototype of the application.
 
 ## Participants
-Participants will be selected from other groups from Group C, working on similar applications. For this reason, they will be more familiar than the average first time user with the software engineering involved in creating this kind of system. As a result, we expect them to be more proficient at the tasks we present them with than the average user would be. This bias should be taken into account when reviewing the results of our tests.
+Test Subjects will be selected from other groups from Group C, working on similar projects. For this reason, they will be more familiar than the average first time user with the software engineering involved in creating this kind of system. As a result, we expect them to be more proficient at the tasks we present them with than the average user would be. This bias should be accounted for when reviewing the results of our tests. They will be asked to complete 6 tasks, giving feedback on their experience after each one. After all tasks are complete, they will fill out a response form with their overall experience.
 
 ## Training
-
+Test Subjects will be briefly shown the 4 main pages of the application, and then given a brief explanation of the app's purpose and the functions it can perform. This information should be just enough to give the Subject some idea of what is expected of them, while not telling them how to solve any task.
 
 ## Procedure
-Testing will take place at a specific ECS machine, ideally in a designated quiet corner of one of the labs. The Facilitator will prepare the Figma prototype in a browser window on this machine, ensuring that it is on the application's home page and is the only thing on screen.
+Testing will take place at a specific ECS machine, ideally in a designated quiet corner of one of the labs. Before testing, the Facilitator will prepare the Figma prototype and feedback Google form in a browser window on this machine, ensuring that both are reset. The Test Subject will be guided to the designated machine, where the Note Taker will be seated to one side. The Facilitator will introduce the test according to the script, ensuring the Test Subject has given their consent.
 
-The Facilitator will then guide the test participant to the designated machine, where the Note Taker will also be positioned. The Facilitator will 
+For each task, the Facilitator will first explain the task. Care must be taken to **not give any further information on the task through gesture or tone of voice**, beyond what is written in the plan. Some tasks will include instructions, to emulate a more experienced user, and others will have no instructions. Once the Test Subject has heard and understood each task, they will attempt to complete it. When they are confident they have completed (or failed to complete) the task, the Facilitator will ask for their thoughts on the experience. These two steps will have **no input or direction by the Facilitator or Note Taker**. The prototype will be reset after each task.
+
+The Note Taker will record any potentially useful information about the Facilitator's explanation, the Subject's attempt at the task (actions performed, errors encountered, total time taken), and the Subject's response on completion. This information will be stored for later analysis, and is not to be shared with the Facilitator or Test Subject before all testing is complete. After all tasks are complete, the Test Subject will be prompted to fill out the Google form with any feedback on the test as a whole. This information will be recorded alongside the Note Taker's notes.
 
 # The Script
 ## Intro
