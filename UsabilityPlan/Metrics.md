@@ -1,0 +1,2 @@
+Metrics
+Our team decided to use the System Usability Scale (SUS) as our testing method. SUS is known to be quick to implement into testing methodologies, easy to understand for survey takers, and versatile for any use case. [This website](https://measuringu.com/sus/) gave us a better understanding on how SUS can be implemented in a feedback forum and how using it can benefit any team, noting specifically about how SUS measures an items usability and ease of learning, as well as SUS's reliability to provide results from responses.
