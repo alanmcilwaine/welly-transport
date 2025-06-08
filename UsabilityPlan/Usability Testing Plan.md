@@ -30,7 +30,7 @@ The Note Taker will record any potentially useful information about the Facilita
 
 # The Script
 ## Intro
-**Note-Taker will create a GitLab issue for the subject, titled with the subject name "Student: #####", Label="Usability Test", and the description is our roles for this test, Note-Taker: ####, Experimenter: ####.
+**Note-Taker will create a GitLab issue for the subject, titled with the subject name "Student: #####", Label="Usability Test", and the description is our roles for this test, Note-Taker: ####, Experimenter: ####.**
 
 E: Welcome to the usability testing of Team 12's transport app. In this session, we will be recording your interactions and feedback while testing the prototype.
 
