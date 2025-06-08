@@ -74,3 +74,8 @@ Our team decided to use the System Usability Scale (SUS) as our testing method. 
 The mobile app should achieve an average System Usability Scale (SUS) score of at least 68, indicating acceptable usability, with an optimal target of 75 or higher to reflect good to excellent usability [source](https://measuringu.com/sus/). This score should be measured through usability testing with representative users performing key travel-related tasks, such as planning a route, checking arrival times, and navigating through the app.
 
 # Problem Severity
+This section helps to prioritise issues encountered during usability testing of our transport application. Problems are classified based on their impact, frequency, and the importance of the task in which they occur. Since this test is being conducted on a prototype version, some features may be incomplete or not available. We will only consider as problems those issues that negatively impact the user experience when performing the tasks included in the test script.
+Classification
+-	Minor – A low-impact issue that causes a small inconvenience or visual inconsistency. It occurs infrequently and does not affect the user’s ability to complete the task.
+-	Moderate – A noticeable issue that affects usability and may confuse the user, but does not completely block task completion.
+-	Major – A critical issue that prevents the user from completing a key function or makes the application unusable for its main purpose.
