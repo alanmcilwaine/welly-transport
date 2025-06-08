@@ -65,6 +65,29 @@ In order to make the testing process as simple as possible, we'll get you to per
 
 # Tasks
 
+**Task 1: Home page**
+ - On the Home page, press the plus icon. Then click on one of the buttons that appear to add a new widget to the home screen. Repeat the process to add another widget. When there are three widgets, scroll to see the bottommost widget. Now remove a widget with the cross button. 
+ - Please describe any times you were lost during this task in the feedback survey. 
+
+**Task 2: Route Planner page**
+ - Navigate to the Route Planner page with the button labelled “Plan”. Press “From” and choose a Result. Then press “Destination” and choose a Result. Next, click a result to highlight it on the map. Try it again with a different one as well. Save a result as a Favourite with the star icon. 
+ - Navigate back to the starting page for the Route Planner. This time, press “Destination” instead of “From” and then choose a Result. Check that the starting location was auto-completed. 
+ - Please describe any times you were lost during this task in the feedback survey. 
+
+**Task 3: Services page**
+ - Navigate to the Services page with the button labelled “Services”. Search for the bus stops and then go to a bus timetable. Then go back and do the same for the train stations and then go to a train timetable. Then go back and use a favourited or suggested service to shortcut to its timetable.
+ - Please describe any times you were lost during this task in the feedback survey. 
+
+**Task 4: Alerts page**
+ - Navigate to the Alerts page with the button labelled “Alerts”. Take a look around the page.
+ - Please describe any times you were lost during this task in the feedback survey. 
+
+**Task 5: Settings page**
+ - Navigate to the Settings page with the icon in the shape of a cog. Take a look at each menu within this page. Change some settings for each menu. Consider the settings that would be best for you.
+ - Please describe any times you were lost during this task in the feedback survey. 
+
+
+
 # Metrics
 
 Our team decided to use the System Usability Scale (SUS) as our testing method. SUS is known to be quick to implement into testing methodologies, easy to understand for survey takers, and versatile for any use case. [This website](https://measuringu.com/sus/) gave us a better understanding on how SUS can be implemented in a feedback forum and how using it can benefit any team, noting specifically about how SUS measures an items usability and ease of learning, as well as SUS's reliability to provide results from responses.
