@@ -22,11 +22,11 @@ Test Subjects will be selected from other groups from Group C, working on simila
 Test Subjects will be briefly shown the 4 main pages of the application, and then given a brief explanation of the app's purpose and the functions it can perform. This information should be just enough to give the Subject some idea of what is expected of them, while not telling them how to solve any task.
 
 ## Procedure
-Testing will take place at a specific ECS machine, ideally in a designated quiet corner of a lab. Before testing, the Facilitator will prepare the Figma prototype and response form in a browser window on this machine, ensuring that both are reset. The Test Subject will be guided to the designated machine by the Facilitator, where the Note Taker will be seated to one side. The Facilitator will introduce the test according to the script, ensuring the Test Subject has given their consent.
+Testing will take place at a specific ECS machine, ideally in a designated quiet corner of a lab. Before testing, the Experimenter will prepare the Figma prototype and response form in a browser window on this machine, ensuring that both are reset. The Test Subject will be guided to the designated machine by the Experimenter, where the Recorder will be seated to one side. The Experimenter will introduce the test according to the script, ensuring the Test Subject has given their consent.
 
-For each task, the Facilitator will first explain the task. Care must be taken to **not give any further information on the task through gesture or tone of voice**, beyond what is written in the plan. Some tasks will include instructions, to emulate a more experienced user, and others will have no instructions. Once the Test Subject has heard and understood each task, they will attempt to complete it. When they are confident they have completed (or failed to complete) the task, the Facilitator will ask for their thoughts on the experience. These two steps will have **no input or direction by the Facilitator or Note Taker**. The prototype will be reset after each task.
+For each task, the Experimenter will first explain the task. Care must be taken to **not give any further information on the task through gesture or tone of voice**, beyond what is written in the plan. Some tasks will include instructions, to emulate a more experienced user, and others will have no instructions. Once the Test Subject has heard and understood each task, they will attempt to complete it. When they are confident they have completed (or failed to complete) the task, the Experimenter will ask for their thoughts on the experience. These two steps will have **no input or direction by the Experimenter or Recorder**. The prototype will be reset after each task.
 
-The Note Taker will record any potentially useful information about the Facilitator's explanation, the Subject's attempt at the task (actions performed, errors encountered, time taken), and the Subject's response on completion. This information will be stored for later analysis, and is not to be shared with the Facilitator or Test Subject before all testing is over. After all tasks are complete, the Test Subject will be prompted to fill out the response form with any feedback on the test as a whole. This information will be recorded alongside the Note Taker's notes.
+The Recorder will record any potentially useful information about the Experimenter's explanation, the Subject's attempt at the task (actions performed, errors encountered, time taken), and the Subject's response on completion. This information will be stored for later analysis, and is not to be shared with the Experimenter or Test Subject before all testing is over. After all tasks are complete, the Test Subject will be prompted to fill out the response form with any feedback on the test as a whole. This information will be recorded alongside the Recorder's notes.
 
 # The Script
 ## Intro
@@ -50,14 +50,14 @@ E: The main goals of our app is to:
 * Minimise the amount of taps to get required information,
 * And undo from multiple states.
 ## Your Tasks
-E: In order to make the testing process as simple as possible, we'll get you to perform a short set of tasks on our Figma prototype. At the end of each task, please note any difficulties you had with the task. When you've finished the task set, please fill out the Google form. We’ve tried to make the form as concise as possible, so that it won’t take too long. That being said, we’d really appreciate as much detail in the feedback as you’re comfortable giving us. We have included 3 tasks with instructions and 3 without instructions. We’ve done this to simulate the contrast in experience between that of an ideal user flow (with instructions) compared to that of a new user (without instructions). Please comment on any differences between the two.
+E: In order to make the testing process as simple as possible, we'll get you to perform a short set of tasks on our Figma prototype. At the end of each task, please note any difficulties you had with the task. When you've finished the task set, please fill out the Google form. We’ve tried to make the form as concise as possible, so that it won’t take too long. That being said, we’d really appreciate as much detail in the feedback as you’re comfortable giving us. We have included multiple tasks, some with lots of help and some with less. We’ve done this to simulate the contrast in experience between that of an ideal user flow (with instructions) compared to that of a new user (without instructions). Please comment on any differences between the two.
 
 E: Here is the link to our prototype.
-**Experimenter will then send the subject the link to the prototype**
+**Experimenter will then send the subject the link to the prototype**<br>
 E: Once the prototype has loaded, let me know, and we can begin going though the tasks.
-**Experimenter will then proceed to ask the user to complete the tasks detailed below in order:**
+**Experimenter will then proceed to ask the user to complete the tasks detailed below in order:**<br>
 
-**Once finished**
+**Once finished**<br>
 E: Thank you for going through this usability test. Can you please fill out this form to give us feedback on your experience.**
 **Experimenter will then send the subject the link to the form**
 
@@ -101,20 +101,21 @@ Alison and Luigi.
  - Please describe any times you were lost during this task in the feedback survey. 
 
 **Task 2: Route Planner page**
- - Navigate to the Route Planner page with the button labelled “Plan”. Press “From” and choose a Result. Then press “Destination” and choose a Result. Next, click a result to highlight it on the map. Try it again with a different one as well. Save a result as a Favourite with the star icon. 
- - Navigate back to the starting page for the Route Planner. This time, press “Destination” instead of “From” and then choose a Result. Check that the starting location was auto-completed. 
+ - Navigate to the Route Planner page with the button labelled “Plan”. Set a starting point and then an ending point. Highlight a result on the map. Try to save a result as a Favourite. 
+ - Navigate back to the starting page for the Route Planner. Search with only a ending point and check the results.
  - Please describe any times you were lost during this task in the feedback survey. 
 
 **Task 3: Services page**
- - Navigate to the Services page with the button labelled “Services”. Search for the bus stops and then go to a bus timetable. Then go back and do the same for the train stations and then go to a train timetable. Then go back and use a favourited or suggested service to shortcut to its timetable.
+ - Navigate to the Services page. Search for the bus stops and then go to a bus timetable. Then go back and do the same for the train stations and then go to a train timetable. Then go back and use a favourited or suggested service to shortcut to its timetable.
  - Please describe any times you were lost during this task in the feedback survey. 
 
 **Task 4: Alerts page**
- - Navigate to the Alerts page with the button labelled “Alerts”. Take a look around the page.
+ - Navigate to the Alerts page. Find an alert for the Hutt Valley line. If you wanted to view alerts more easily, what could you do to the home page?
  - Please describe any times you were lost during this task in the feedback survey. 
 
 **Task 5: Settings page**
- - Navigate to the Settings page with the icon in the shape of a cog. Take a look at each menu within this page. Change some settings for each menu. Consider the settings that would be best for you.
+ - Where would you try to find help in this prototype?
+ - Navigate to the Settings page. Take a look at each menu within this page. Change some settings for each menu. Consider the settings that would be best for you.
  - Please describe any times you were lost during this task in the feedback survey. 
 
 
