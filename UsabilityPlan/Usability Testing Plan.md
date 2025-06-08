@@ -52,12 +52,18 @@ E: The main goals of our app is to:
 ## Your Tasks
 E: In order to make the testing process as simple as possible, we'll get you to perform a short set of tasks on our Figma prototype. At the end of each task, please note any difficulties you had with the task. When you've finished the task set, please fill out the Google form. We’ve tried to make the form as concise as possible, so that it won’t take too long. That being said, we’d really appreciate as much detail in the feedback as you’re comfortable giving us. We have included 3 tasks with instructions and 3 without instructions. We’ve done this to simulate the contrast in experience between that of an ideal user flow (with instructions) compared to that of a new user (without instructions). Please comment on any differences between the two.
 
+E: Here is the link to our prototype.
 **Experimenter will then send the subject the link to the prototype**
-**Experimenter will then proceed to ask the user to complete the tasks detailed below:**
+E: Once the prototype has loaded, let me know, and we can begin going though the tasks.
+**Experimenter will then proceed to ask the user to complete the tasks detailed below in order:**
+
+**Once finished**
+E: Thank you for going through this usability test. Can you please fill out this form to give us feedback on your experience.**
 **Experimenter will then send the subject the link to the form**
 
 ## Scenarios:
 If the subject is taking too long to figure out how to do a task, Experimenter will give them a hint and Note-taker will note this in the description of the GitLab issue.
+If the subject can't figure out how to do a task even with a hint, move on. The note-taker will take a note of this.
 Note-taker will take note of:
 * Any difficulties.
 * Any time they've taken too long to figure out a task, and then the hint the experimenter gave them.
