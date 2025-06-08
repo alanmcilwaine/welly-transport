@@ -30,44 +30,22 @@ The Note Taker will record any potentially useful information about the Facilita
 
 # The Script
 ## Intro
-**Note-Taker will create a GitLab issue for the subject, titled with the subject name "Student: #####", Label="Usability Test", and the description is our roles for this test, Note-Taker: ####, Experimenter: ####.
+Welcome to the usability testing of Team 12's transport app. In this session, we will be recording your interactions and feedback while testing the prototype, do you provide consent?
 
-E: Welcome to the usability testing of Team 12's transport app. In this session, we will be recording your interactions and feedback while testing the prototype.
-
-**Experimenter hands subject the consent script**
-
-E: Do you provide consent?
-
-**Experimenter makes sure subject has signed the script**
-
-E: The purpose of our app is to organise and plan a transport route for a diverse array of commuters. Users will be able to plan a route between two stops and select their preferred route. These can be saved, and viewed under widgets on the home screen. Alongside route planning, users can: 
+The purpose of our app is to organise and plan a transport route for a diverse array of commuters. Users will be able to plan a route between two stops and select their preferred route. These can be saved, and viewed under widgets on the home screen. Alongside route planning, users can: 
 * Customise their home screen with an array of widgets,
 * View train and bus alerts in the Wellington region,
 * View timetables of specific stops or services,
 * And seek help through the settings.
-E: The main goals of our app is to:
+The main goals of our app is to:
 * Improve customisability for each user,
 * Minimise the amount of taps to get required information,
 * And undo from multiple states.
 ## Your Tasks
-E: In order to make the testing process as simple as possible, we'll get you to perform a short set of tasks on our Figma prototype. At the end of each task, please note any difficulties you had with the task. When you've finished the task set, please fill out the Google form. We’ve tried to make the form as concise as possible, so that it won’t take too long. That being said, we’d really appreciate as much detail in the feedback as you’re comfortable giving us. We have included 3 tasks with instructions and 3 without instructions. We’ve done this to simulate the contrast in experience between that of an ideal user flow (with instructions) compared to that of a new user (without instructions). Please comment on any differences between the two.
+In order to make the testing process as simple as possible, we'll get you to perform a short set of tasks on our Figma prototype. At the end of each task, please note any difficulties you had with the task. When you've finished the task set, please fill out the Google form. We’ve tried to make the form as concise as possible, so that it won’t take too long. That being said, we’d really appreciate as much detail in the feedback as you’re comfortable giving us. We have included 3 tasks with instructions and 3 without instructions. We’ve done this to simulate the contrast in experience between that of an ideal user flow (with instructions) compared to that of a new user (without instructions). Please comment on any differences between the two.
 
-E: Here is the link to our prototype.
-**Experimenter will then send the subject the link to the prototype**
-E: Once the prototype has loaded, let me know, and we can begin going though the tasks.
-**Experimenter will then proceed to ask the user to complete the tasks detailed below in order:**
+**The tester will then proceed to ask the user to complete the tasks detailed below:**
 
-**Once finished**
-E: Thank you for going through this usability test. Can you please fill out this form to give us feedback on your experience.**
-**Experimenter will then send the subject the link to the form**
-
-## Scenarios:
-If the subject is taking too long to figure out how to do a task, Experimenter will give them a hint and Note-taker will note this in the description of the GitLab issue.
-If the subject can't figure out how to do a task even with a hint, move on. The note-taker will take a note of this.
-Note-taker will take note of:
-* Any difficulties.
-* Any time they've taken too long to figure out a task, and then the hint the experimenter gave them.
-* Any questions the subject asks.
 # Roles
 In our group of 6, we paired up into 2 to do the Experimenting and Recording, the roles in these pairs switch after each testing user.. These pairs are:
 Ming and Alan
@@ -94,30 +72,7 @@ Alison and Luigi.
 * Completes the tasks given by the Facilitator
 * Inputs answers to the questions asked
 * Submits a form
-
 # Tasks
-**Task 1: Home page**
- - On the Home page, press the plus icon. Then click on one of the buttons that appear to add a new widget to the home screen. Repeat the process to add another widget. When there are three widgets, scroll to see the bottommost widget. Now remove a widget with the cross button. 
- - Please describe any times you were lost during this task in the feedback survey. 
-
-**Task 2: Route Planner page**
- - Navigate to the Route Planner page with the button labelled “Plan”. Press “From” and choose a Result. Then press “Destination” and choose a Result. Next, click a result to highlight it on the map. Try it again with a different one as well. Save a result as a Favourite with the star icon. 
- - Navigate back to the starting page for the Route Planner. This time, press “Destination” instead of “From” and then choose a Result. Check that the starting location was auto-completed. 
- - Please describe any times you were lost during this task in the feedback survey. 
-
-**Task 3: Services page**
- - Navigate to the Services page with the button labelled “Services”. Search for the bus stops and then go to a bus timetable. Then go back and do the same for the train stations and then go to a train timetable. Then go back and use a favourited or suggested service to shortcut to its timetable.
- - Please describe any times you were lost during this task in the feedback survey. 
-
-**Task 4: Alerts page**
- - Navigate to the Alerts page with the button labelled “Alerts”. Take a look around the page.
- - Please describe any times you were lost during this task in the feedback survey. 
-
-**Task 5: Settings page**
- - Navigate to the Settings page with the icon in the shape of a cog. Take a look at each menu within this page. Change some settings for each menu. Consider the settings that would be best for you.
- - Please describe any times you were lost during this task in the feedback survey. 
-
-
 
 # Metrics
 
