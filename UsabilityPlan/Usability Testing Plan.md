@@ -67,6 +67,8 @@ In order to make the testing process as simple as possible, we'll get you to per
 
 # Metrics
 
+Our team decided to use the System Usability Scale (SUS) as our testing method. SUS is known to be quick to implement into testing methodologies, easy to understand for survey takers, and versatile for any use case. [This website](https://measuringu.com/sus/) gave us a better understanding on how SUS can be implemented in a feedback forum and how using it can benefit any team, noting specifically about how SUS measures an items usability and ease of learning, as well as SUS's reliability to provide results from responses.
+
 # Usability Goals
 
 The mobile app should achieve an average System Usability Scale (SUS) score of at least 68, indicating acceptable usability, with an optimal target of 75 or higher to reflect good to excellent usability [source](https://measuringu.com/sus/). This score should be measured through usability testing with representative users performing key travel-related tasks, such as planning a route, checking arrival times, and navigating through the app.
