@@ -4,3 +4,6 @@
 ## What was learnt from conducting user testing?
 
 ## Most significant results found from user testing
+
+- The most consistent user feedback is that stops and service icon in the services search page is not clearly differentiable. A fix could be to add text at the bottom of the icons to clearly state what the icon represents.
+
