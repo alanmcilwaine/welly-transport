@@ -4,9 +4,7 @@
 
 ## What was learnt from conducting user testing?
 
-
-
-Users scanned from top to bottom of a page, sometimes missing items closer to the bottom . For example, putting the search bar at the bottom rather than the top for touch hierarchy made a few users spend a while to find the search bar. Interestingly, this was reflected in the Recorder's notes from testing, but not in user feedback. Users consistently said they did not find the system cumbersome to use, and there was no written feedback about the placement being unintuitive.
+Users scanned from top to bottom of each page as expected, but this sometimes meant missing items closer to the bottom. For example, putting the search bar at the bottom rather than the top for touch hierarchy made a few users spend a while to find the search bar. Interestingly, this was reflected in the Recorder's notes from testing, but not in user feedback. Users consistently said they did not find the system cumbersome to use, and there was no written feedback about the placement being unintuitive.
 
 ![Question 8: I found the system very cumbersome to use													](Images/Question8.png)
 
