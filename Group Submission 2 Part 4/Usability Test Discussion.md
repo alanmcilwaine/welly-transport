@@ -30,6 +30,16 @@ Some of the most significant results include those from question one and five. T
 Experimentation Zone (remove later)
 
 
+
+Interesting : Varied results		2, 7, 9
+Learnt : Text results				
+	Positive: Widgets (overwhelmingly), Settings menu, Favourites system, Overall simplicity
+	Negative: Search boxes, improved route planning (train/bus icons, filters, etc. overwhelmingly!)
+Significant : Consistent results	1, 5, 8
+
+
+
+
 ![Question 1: I think that I would like to use this system frequently									](Images/Question1.png)
 
 *Question 1: I think that I would like to use this system frequently*
