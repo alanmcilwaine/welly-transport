@@ -12,6 +12,10 @@ These objectives will be completed through analysis of data from test participan
 
 The intended user base of Team 12's Transport App are daily commuters in the Wellington region. Participants in testing consist of 4 groups of 6 students (expected) studying SWEN303 at Victoria University of Wellington.
 
+# Materials
+* Each participant will be instructed to sign a consent form. All of the consent forms will be stored under ./ConsentForms.  
+* Each participant will test the prototype on ECS lab computers.
+
 # Methodology:
 There will be 6-12 test users, who will carry out testing in-person in computer labs CO238 and CO234. Testing will be carried out on a Figma prototype of the application.
 
@@ -134,3 +138,11 @@ Level of the Issue:
 -	Minor – A low-impact issue that causes a small inconvenience or visual inconsistency. It occurs infrequently and does not affect the user’s ability to complete the task.
 -	Moderate – A noticeable issue that affects usability and may confuse the user, but does not completely block task completion.
 -	Major – A critical issue that prevents the user from completing a key function or makes the application unusable for its main purpose.  
+
+# Data Collection and Analysis
+**We are collecting data using the SUS metric. Each subject will be given a form to fill outlining:**
+* 10 questions according to the SUS standard.
+* Their favourite feature.
+* Issues they had with the prototype.
+**These will be analysed by:**
+Creating a boxplot of each of the 10 questions from the form. We will then analyse the boxplot and find apparent issues of each part of the usability test.
