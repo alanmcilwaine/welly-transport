@@ -20,21 +20,41 @@
 
 ![Question 1: I think that I would like to use this system frequently									](Images/Question1.png)
 
-![Question 2: I found the system unnecessarily complex.png												](Images/Question2.png)
+*Question 1: I think that I would like to use this system frequently*
+
+![Question 2: I found the system unnecessarily complex													](Images/Question2.png)
+
+*Question 2: I found the system unnecessarily complex*
 
 ![Question 3: I thought the system was easy to use														](Images/Question3.png)
 
+*Question 3: I thought the system was easy to use*		
+
 ![Question 4: I think that I would need the support of a technical person to be able to use this system	](Images/Question4.png)
 
-![Question 5_ I found the various functions in this system were well integrated							](Images/Question5.png)
+*Question 4: I think that I would need the support of a technical person to be able to use this system*
 
-![Question 6_ I thought there was too much inconsistency in this system									](Images/Question6.png)
+![Question 5: I found the various functions in this system were well integrated							](Images/Question5.png)
 
-![Question 7_ I would imagine that most people would learn to use this system very quickly				](Images/Question7.png)
+*Question 5: I found the various functions in this system were well integrated*
 
-![Question 8_ I found the system very cumbersome to use													](Images/Question8.png)
+![Question 6: I thought there was too much inconsistency in this system									](Images/Question6.png)
 
-![Question 9_ I felt very confident using the system													](Images/Question9.png)
+*Question 6: I thought there was too much inconsistency in this system*
 
-![Question 10_ I needed to learn a lot of things before I could get going with this system				](Images/Question10.png)
+![Question 7: I would imagine that most people would learn to use this system very quickly				](Images/Question7.png)
+
+*Question 7: I would imagine that most people would learn to use this system very quickly*
+
+![Question 8: I found the system very cumbersome to use													](Images/Question8.png)
+
+*Question 8: I found the system very cumbersome to use*	
+
+![Question 9: I felt very confident using the system													](Images/Question9.png)
+
+*Question 9: I felt very confident using the system*
+
+![Question 10: I needed to learn a lot of things before I could get going with this system				](Images/Question10.png)
+
+*Question 10: I needed to learn a lot of things before I could get going with this system*
 
