@@ -1,14 +1,24 @@
 ## Interesting things found from user testing
-- Users have no attention span and will not scan the entire page. e.g putting the search bar at the bottom for touch hierarchy rather than the top made a few users spend a while to find the search bar.
+
 
 
 ## What was learnt from conducting user testing?
-- User testers really liked our Widget menu, being able to customize the home screen made the user experience unique and adjustable, allowing us to cater to a wide variety of users.
-- The most consistent user feedback is that stops and service icon in the services search page is not clearly differentiable. A fix could be to add text at the bottom of the icons to clearly state what the icon represents.
+
+
+
+Users scanned from top to bottom of a page, sometimes missing items closer to the bottom . For example, putting the search bar at the bottom rather than the top for touch hierarchy made a few users spend a while to find the search bar. Interestingly, this was reflected in the Recorder's notes from testing, but not in user feedback. Users consistently said they did not find the system cumbersome to use, and there was no written feedback about the placement being unintuitive.
+
+![Question 8: I found the system very cumbersome to use													](Images/Question8.png)
+
+*Question 8: I found the system very cumbersome to use*	
+
+This may mean that this slow first-time finding of elements on the bottom of the screen was a lower priority for users than we expected. It may also be a limitation of the survey, as any momentary frustration at this would not be remembered by the end of the test. This could be solved by asking questions specific to the time taken to find UI elements, either at the end of the SUS survey or after the relevant tasks.
 
 ## Most significant results found from user testing
-
+- User testers really liked our Widget menu, being able to customize the home screen made the user experience unique and adjustable, allowing us to cater to a wide variety of users.
 - Over 75% of our testers rated our "I think that I would like to use this system regularly" question as a 4, meaning Agree, with everyone else answering 3, meaning neutral. 
+- The most consistent user feedback is that stops and service icon in the services search page is not clearly differentiable. A fix could be to add text at the bottom of the icons to clearly state what the icon represents.
+
 
 
 
