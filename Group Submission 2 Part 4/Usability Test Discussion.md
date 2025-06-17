@@ -15,7 +15,7 @@ Users scanned from top to bottom of each page as expected, but this sometimes me
 
 ![Question 8: I found the system very cumbersome to use													](Images/Question8.png)
 
-This may mean that this slow first-time finding of elements on the bottom of the screen was a lower priority for users than we expected. It may also be a limitation of the survey, as any momentary frustration at this would not be remembered by the end of the test. This could be solved by asking questions specific to the time taken to find UI elements, either at the end of the SUS survey or after the relevant tasks.
+This may mean that this slow first-time finding of elements on the bottom of the screen was a lower priority for most users than we expected. It may also be a limitation of the survey, as any momentary frustration at this would not be remembered by the end of the test. This could be solved by asking specific questions about the time taken to find UI elements, either at the end of the SUS survey or after the relevant tasks.
 
 
 ## Section 3: Most significant results found from user testing
