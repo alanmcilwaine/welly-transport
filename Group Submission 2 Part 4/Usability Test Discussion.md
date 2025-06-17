@@ -15,8 +15,6 @@ Users scanned from top to bottom of each page as expected, but this sometimes me
 
 ![Question 8: I found the system very cumbersome to use													](Images/Question8.png)
 
-*Question 8: I found the system very cumbersome to use*	
-
 This may mean that this slow first-time finding of elements on the bottom of the screen was a lower priority for users than we expected. It may also be a limitation of the survey, as any momentary frustration at this would not be remembered by the end of the test. This could be solved by asking questions specific to the time taken to find UI elements, either at the end of the SUS survey or after the relevant tasks.
 
 
@@ -31,18 +29,11 @@ This may mean that this slow first-time finding of elements on the bottom of the
 Some of the most significant results include those from question one and five. The majority of users who tested our design gave us the same result for these questions. For those who didn’t align with the majority's consensus, their result was only one degree of opinion away from the majority. These results were that most users agreed that they would use the system frequently and that the systems functions were well integrated, for question one and five respectively. 
 
 ![Question 1: I think that I would like to use this system frequently									](Images/Question1.png)
-
-*Question 1: I think that I would like to use this system frequently*
-
 ![Question 5: I found the various functions in this system were well integrated							](Images/Question5.png)
-
-*Question 5: I found the various functions in this system were well integrated*
 
 Question eight also has very consistent results from our users, but with slightly further outliers than that of question one and five. The majority of users disagreed with the notion that the system is very cumbersome to use, with outliers either agreeing or strongly disagreeing with the notion. 
 
 ![Question 8: I found the system very cumbersome to use													](Images/Question8.png)
-
-*Question 8: I found the system very cumbersome to use*	
 
 For the users favourite feature of the app, there is a clear appreciation for the widget feature on the home page. Out of the twelve responses to this question, seven of them are about the widget feature. 
 
