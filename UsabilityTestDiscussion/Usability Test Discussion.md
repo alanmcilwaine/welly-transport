@@ -21,19 +21,11 @@ This may mean that this slow first-time finding of elements on the bottom of the
 
 ## Section 3: Most significant results found from user testing
 
-- The most consistent user feedback is that stops and service icon in the services search page is not clearly differentiable. A fix could be to add text at the bottom of the icons to clearly state what the icon represents.
-Search boxes, improved route planning (train/bus icons, filters, etc. overwhelmingly!)
-
-
-
+It is clear that the route planning page currently has the biggest pain points in our app, as 8 out of the 13 test subjects reported some issue with the page. This appears to be due to a mix of multiple factors, such as the placeholder names/icons of search results, the limited interactivity of text entry, and the fixed map display.
 
 ![Question: What changes would you like to see in this app?												](Images/RoutePlanningResults.png)
 
-It is clear that the route planning page currently has the biggest pain points in our app, as 8 out of the 13 test subjects reported some issue with the page. This appears to be due to a mix of multiple factors, such as the placeholder names/icons of search results, the limited interactivity of text entry, and the fixed map display 
-
-
-
-
+The development of these areas was clearly not prioritised enough, especially when compared to the other pages. As such, improvements to the route planning page should be a very high priority for future development. These should include more intuitive text entry and result filtering, better feedback to the user on what type of result they are selecting, and more information on the map and the results view.
 
 Some of the most significant results include those from question one and five. The majority of users who tested our design gave us the same result for these questions. For those who didn’t align with the majority's consensus, their result was only one degree of opinion away from the majority. These results were that most users agreed that they would use the system frequently and that the systems functions were well integrated, for question one and five respectively. 
 
