@@ -1,3 +1,8 @@
+# Marking notes for part 2:
+The usability plan can be found in UsabilityPlan/
+The usability results can be found in UsabilityResults/
+The usability discussion can be found in UsabilityDiscussion/
+
 # Prototype Link
 https://www.figma.com/proto/YTZG4wpHqOm3zaqFoJ5i6C/Designs-re-do?node-id=1-2326&t=USyhwMO6xF96u1YV-1
 
