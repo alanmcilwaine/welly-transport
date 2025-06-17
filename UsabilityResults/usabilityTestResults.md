@@ -1,6 +1,6 @@
 # Usability Test Results
 
-## Usability Goal Calculations
+## Quantitative Data
 
 The following scores are calculated in adherence to the "Usability Goals" section details in our usability test plan. We received 13 responses in our testing, and the scores of each user in testing is listed below:
 
@@ -20,24 +20,54 @@ The following scores are calculated in adherence to the "Usability Goals" sectio
 | Eric         | 4  | 2  | 4  | 1  | 4  | 2  | 5  | 2  | 5  | 1   | 34      | 85        |
 | Caleb        | 4  | 3  | 4  | 2  | 4  | 4  | 3  | 2  | 3  | 2   | 25      | 62.5      |
 
-| Name         | Favorite Feature                                                                                       | Suggested Changes                                                                                                                              |
-|--------------|--------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
-| Robyn        | I liked the adding widgets to the home screen.                                                         | Things are a bit confusing to find. The icons that distinguish bus from train led to a lot of confusion. Make them more obvious.               |
-| Tyler        | Widgets on the home screen; easily get information and customize preferences.                          | Naming conventions in search boxes were confusing (prototype limitation).                                                                      |
-| Roland       | Widgets, allowing for easy customisation of the home screen.                                           | Some settings relate to Route Planning feature; relocate them.                                                                                 |
-| Damon        | Settings menu                                                                                          | Fine tune the route planning process.                                                                                                           |
-| Ran          | Setting page very clean and straightforward.                                                           | Change back button behavior to go to original page, not last step.                                                                             |
-| Melissa      | Adding specific widgets; services timetables on saved favorite routes.                                | More information on the chosen route.                                                                                                           |
-| Kade         | The ease of saving routes.                                                                             | Add filtering for search options.                                                                                                               |
-| James Small  | Alert system; good addition despite some cohesion issues with bus and train alerts.                    | Clarify “add” button is for widgets, and better spacing for mixed bus/train info.                                                              |
-| Charlie      | Widgets are a very nice feature.                                                                       | Map view of the current route was confusing and could be improved.                                                                             |
-| Sekona       | Simplicity of completing tasks.                                                                        | More feedback during steps—e.g., clearer route search confirmation.                                                                            |
-| Steven       | *(No entry)*                                                                                           | *(No entry)*                                                                                                                                    |
-| Eric         | Widget                                                                                                 | *(No entry)*                                                                                                                                    |
-| Caleb        | Widgets in main menu were helpful.                                                                     | Move settings icon to bottom bar; improve visual feedback for page location and search bar placement.                                          |
+### Statistical Calculations Based on Data:
 Average **'SUS'** score = 75.96
+Median **'SUS'** score = 77.50
+Standard Deviation of **'SUS'** score = 14.24
+Range = 47.50 - 95
 
-We received a SUS score of 75.96. Following the Usability Test Plan (usabilityTestPlan.md), we are aiming for an optimal score of 75 and above and we have gotten that! For this reason, we can be confident our prototype doesn't have catastrophic usability issues, and we can focus on low to moderate usability fixes. 
+We received an average SUS score of 75.96. Following the Usability Test Plan (usabilityTestPlan.md), we are aiming for an optimal score of 75 and above and we have gotten that! For this reason, we can be confident our prototype doesn't have catastrophic usability issues, and we can focus on low to moderate usability fixes. 
+
+# Graphs to visualise SUS score
+
+![](Images/Question1.png)
+![](Images/Question2.png)
+![](Images/Question3.png)
+![](Images/Question4.png)
+![](Images/Question5.png)
+![](Images/Question6.png)
+![](Images/Question7.png)
+![](Images/Question8.png)
+![](Images/Question9.png)
+![](Images/Question10.png)
+
+# Qualitative Data:
+
+> Alongside the SUS score questions, we asked general questions for each subject on their favourite features and suggested changes for the application. 
+
+| Name        | Favorite Feature                                                                    | Suggested Changes                                                                                                                |
+| ----------- | ----------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| Robyn       | I liked the adding widgets to the home screen.                                      | Things are a bit confusing to find. The icons that distinguish bus from train led to a lot of confusion. Make them more obvious. |
+| Tyler       | Widgets on the home screen; easily get information and customize preferences.       | Naming conventions in search boxes were confusing (prototype limitation).                                                        |
+| Roland      | Widgets, allowing for easy customisation of the home screen.                        | Some settings relate to Route Planning feature; relocate them.                                                                   |
+| Damon       | Settings menu                                                                       | Fine tune the route planning process.                                                                                            |
+| Ran         | Setting page very clean and straightforward.                                        | Change back button behavior to go to original page, not last step.                                                               |
+| Melissa     | Adding specific widgets; services timetables on saved favorite routes.              | More information on the chosen route.                                                                                            |
+| Kade        | The ease of saving routes.                                                          | Add filtering for search options.                                                                                                |
+| James Small | Alert system; good addition despite some cohesion issues with bus and train alerts. | Clarify “add” button is for widgets, and better spacing for mixed bus/train info.                                                |
+| Charlie     | Widgets are a very nice feature.                                                    | Map view of the current route was confusing and could be improved.                                                               |
+| Sekona      | Simplicity of completing tasks.                                                     | More feedback during steps—e.g., clearer route search confirmation.                                                              |
+| Steven      | *(No entry)*                                                                        | *(No entry)*                                                                                                                     |
+| Eric        | Widget                                                                              | *(No entry)*                                                                                                                     |
+| Caleb       | Widgets in main menu were helpful.                                                  | Move settings icon to bottom bar; improve visual feedback for page location and search bar placement.                            |
+### Main Favourite Features:
+- Widgets: 8 subjects praised the widget system.
+- Alerts: 1 subjects praised the alerts page.
+- Settings: 2 subjects praised the settings page.
+### Main Suggestions for Improvement:
+* Search and filtering, specifically visual hierarchy and naming: 4 subjects
+* Feedback and confirmation, specifically in widget creation, search and settings: 2 subjects
+* Clearer icons and labels: 2
 
 # All Issues Classified
 
@@ -97,7 +127,7 @@ This issue affects all users and was raised consistently by every test participa
 
 Classification: Moderate
 
-## Keep Search Bars at top
+## Keep search bars at top (#33)
 Description: Multiple usability test participants failed to notice the search bar positioned at the bottom of the screen. When trying to perform a search, users instinctively scanned the top portion of the interface, as this is the conventional location for search inputs in most mobile apps. As a result, some users either assumed there was no search functionality or took longer than necessary to locate it.
 
 Students: Caleb.
@@ -106,15 +136,14 @@ While the search bar is technically present and functional, its unexpected posit
 
 Classification: Moderate
 
-## Give Alerts tiles a way to expand them for more information
-Description: 
+## Give alerts tiles a way to expand them for more information (#31)
+Description: In usability testing, there were two subjects who wanted more information from the alerts. The alerts currently provide short detail on things like bus replacements, service cancellations, but these subjects required more.
 
-Students:
+Students: Roland, Sekona.
 
-Classification:
+Classification: Moderate
 
-
-## Remove widgets from the add menu when they're already added
+## Remove widgets from the add menu when they're already added (#30)
 Description: Based on user testing, we identified that the current design allows users to attempt to add widgets that are already present on the home page. This caused confusion, as users clicked the "Add" button on widgets they had already added, expecting a new action or feedback, but nothing happened.
 
 Students: Tyler, Ranju, Roland, James, Charlie, Eric, Caleb. 
@@ -123,24 +152,17 @@ The issue impacted user expectations and caused confusion, which could reduce sa
 
 Classification: Moderate.
 
-## Make favourites area more visible to the user
-Description:
+## Make favourites area more visible to the user (#29)
+Description: In usability testing, we found subjects who overlooked the favourite star during testing due to low contrast. To fix this issue, the group member must:
 
-Students:
+Students: Caleb
 
-Classification: Low
+Classification: Minor
 
-## Add text or better iconography to differentiate between service types in timetables menu
-Description:
+## Allow Typing input for Search Menus (#26)
+Description: In usability testing, there were many subjects who tried to insert text in the prototype in to the search menu. This wasn't implemented in the prototype due to limitations in Figma.
 
-Students:
-
-Classification: Moderate
-
-## Allow Typing input for Search Menus
-Description:
-
-Students:
+Students: No exact student noted, but we found many tried to do this in the session.
 
 Classification: Severe
 
