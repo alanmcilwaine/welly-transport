@@ -1,12 +1,12 @@
 ## Section 1: Interesting things found from user testing
 
-Users overwhelmingly felt confident in their use of the app, and found it to not be complex or hard to use, but to widely varying degrees (with many being neutral on these topics).
+Users overwhelmingly felt confident in their use of the app, and found it to not be complex or hard to use. However, this was a sentiment held to widely varying degrees (with many being neutral on these topics). This spread is most apparent in the answers to questions 2, 7, and 9. It is also present in other questions, but to a lesser degree, with more positive and fewer neutral results.
 
 ![Question 2: I found the system unnecessarily complex													](Images/Question2.png)
 ![Question 7: I would imagine that most people would learn to use this system very quickly				](Images/Question7.png)
 ![Question 9: I felt very confident using the system													](Images/Question9.png)
 
-This is a positive outcome for our design, although the app appears to be much more intuitive and un-complex for some users than others. This may be a result of some convenient but unconventional layout choices (discussed in section 2), or the specific limitations/inconsistency of the prototype (discussed in section 3).
+This is a sign that the use of our app is very intuitive to some users, but only mildly intuitive or neutral to others. This may be a result of some convenient but unconventional layout choices (discussed in section 2), or the specific limitations/inconsistency of the prototype (discussed in section 3). This result has some interesting implications for our app's widespread appeal, and whether it is geared a little too much toward a specific type of user.
 
 
 ## Section 2: What was learnt from conducting user testing?
