@@ -6,7 +6,7 @@ Users overwhelmingly felt confident in their use of the app, and found it to not
 ![Question 7: I would imagine that most people would learn to use this system very quickly				](Images/Question7.png)
 ![Question 9: I felt very confident using the system													](Images/Question9.png)
 
-These questions focus on the common theme of the users ability to use the app and the results show that the use of our app is very intuitive to some users, but only mildly intuitive or neutral to others. This may be a result of some convenient but unconventional layout choices (discussed in section 2), or the specific limitations/inconsistency of the prototype (discussed in section 3). This result has some interesting implications for our app's widespread appeal, and whether it is geared a little too much toward a specific type of user.
+These questions focus on the common theme of the users ability to use the app, and the results show that this is very intuitive to some users, but only mildly intuitive or neutral to others. This may be a result of some convenient but unconventional layout choices (discussed in section 2), or the specific limitations/inconsistency of the prototype (discussed in section 3). This result has some interesting implications for our app's widespread appeal, and whether it is geared a little too much toward a specific type of user.
 
 
 ## Section 2: What was learnt from conducting user testing?
