@@ -28,6 +28,10 @@ Range = 47.50 - 95
 
 We received an average SUS score of 75.96. Following the Usability Test Plan (usabilityTestPlan.md), we are aiming for an optimal score of 75 and above and we have gotten that! For this reason, we can be confident our prototype doesn't have catastrophic usability issues, and we can focus on low to moderate usability fixes. 
 
+The median score is slightly higher than the average, showing a few outliers with lower scores. Specifically, Charlie's score of 47.5. This supports that we have achieved the optimal score.
+
+The standard deviation of 14.24 shows there is quite high variability in how others perceived the prototype. This could imply there is inconsistency in how others view the system.
+
 # Graphs to visualise SUS score
 
 ![](Images/Question1.png)
@@ -65,9 +69,9 @@ We received an average SUS score of 75.96. Following the Usability Test Plan (us
 - Alerts: 1 subjects praised the alerts page.
 - Settings: 2 subjects praised the settings page.
 ### Main Suggestions for Improvement:
-* Search and filtering, specifically visual hierarchy and naming: 4 subjects
-* Feedback and confirmation, specifically in widget creation, search and settings: 2 subjects
-* Clearer icons and labels: 2
+* Search and filtering, specifically visual hierarchy and naming: 4 subjects.
+* Feedback and confirmation, specifically in widget creation, search and settings: 2 subjects.
+* Clearer icons and labels: 2 subjects.
 
 # All Issues Classified
 
@@ -118,7 +122,7 @@ While the current design is functional and all services remain accessible, the i
 
 Classification: Minor
 
-## Differentiate train and bus stops services better in the search. (#34)
+## Differentiate train and bus stops services better in the search. (#28 and #34)
 Description: Across all usability test sessions, users consistently reported confusion when using the services search and viewing the services home page. Specifically, users were unable to easily distinguish between transport services (e.g., "Bus 32") and stops or stations (e.g., "Victoria Station"). The current interface presents both types of results in a visually identical or overly similar format, leading users to mistakenly select the wrong type of result or hesitate before making a selection.
 
 Students: Tyler, Ranju, Damon, Kude, Melissa, Charlie, Steven, Eric, Caleb, Roland, James. 
@@ -143,7 +147,7 @@ Students: Roland, Sekona.
 
 Classification: Moderate
 
-## Remove widgets from the add menu when they're already added (#30)
+## Remove widgets from the add menu when they're already added (#27 and #30)
 Description: Based on user testing, we identified that the current design allows users to attempt to add widgets that are already present on the home page. This caused confusion, as users clicked the "Add" button on widgets they had already added, expecting a new action or feedback, but nothing happened.
 
 Students: Tyler, Ranju, Roland, James, Charlie, Eric, Caleb. 
