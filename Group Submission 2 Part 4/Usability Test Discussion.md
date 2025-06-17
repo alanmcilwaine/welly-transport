@@ -36,9 +36,14 @@ Question eight also has very consistent results from our users, but with slightl
 
 *Question 8: I found the system very cumbersome to use*	
 
+For the users favourite feature of the app, there is a clear appreciation for the widget feature on the home page. Out of the twelve responses to this question, seven of them are about the widget feature. 
 
+![Question: What is your favorite feature about this app?												](Images/WidgetResults.png)
 
-
+Some of the more detailed responses give further justification for their decision, including:
+- “\[making] it easier to perform certain tasks or have information that’s relevant to me.”
+- “\[providing] a very good way for users to quickly and easily get information, and customize to their preferences.”
+- “allowing for easy customisation of the home screen to things one needs.”
 
 
 
