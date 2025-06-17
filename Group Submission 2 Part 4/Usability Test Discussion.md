@@ -1,10 +1,17 @@
-## Interesting things found from user testing
+## Section 1: Interesting things found from user testing
+
+Users overwhelmingly felt confident in their use of the app, and found it to not be complex or hard to use, but to widely varying degrees (with many being neutral on these topics).
+
+![Question 2: I found the system unnecessarily complex													](Images/Question2.png)
+![Question 7: I would imagine that most people would learn to use this system very quickly				](Images/Question7.png)
+![Question 9: I felt very confident using the system													](Images/Question9.png)
+
+This is a positive outcome for our design, although the app appears to be much more intuitive and un-complex for some users than others. This may be a result of some convenient but unconventional layout choices (discussed in section 2), or the specific limitations/inconsistency of the prototype (discussed in section 3).
 
 
+## Section 2: What was learnt from conducting user testing?
 
-## What was learnt from conducting user testing?
-
-Users scanned from top to bottom of each page as expected, but this sometimes meant missing items closer to the bottom. For example, putting the search bar at the bottom rather than the top for touch hierarchy made a few users spend a while to find the search bar. Interestingly, this was reflected in the Recorder's notes from testing, but not in user feedback. Users consistently said they did not find the system cumbersome to use, and there was no written feedback about the placement being unintuitive.
+Users scanned from top to bottom of each page as expected, but this sometimes meant missing items closer to the bottom. The best example of this was that putting the search bar at the bottom rather than the top for touch hierarchy made a few users take a while to find it. Interestingly, this was reflected only in the Recorder's notes from testing, and not at all in user feedback. Users consistently said they did not find the system cumbersome to use, and there was no written feedback about this placement being unintuitive.
 
 ![Question 8: I found the system very cumbersome to use													](Images/Question8.png)
 
@@ -12,7 +19,8 @@ Users scanned from top to bottom of each page as expected, but this sometimes me
 
 This may mean that this slow first-time finding of elements on the bottom of the screen was a lower priority for users than we expected. It may also be a limitation of the survey, as any momentary frustration at this would not be remembered by the end of the test. This could be solved by asking questions specific to the time taken to find UI elements, either at the end of the SUS survey or after the relevant tasks.
 
-## Most significant results found from user testing
+
+## Section 3: Most significant results found from user testing
 - User testers really liked our Widget menu, being able to customize the home screen made the user experience unique and adjustable, allowing us to cater to a wide variety of users.
 - Over 75% of our testers rated our "I think that I would like to use this system regularly" question as a 4, meaning Agree, with everyone else answering 3, meaning neutral. 
 - The most consistent user feedback is that stops and service icon in the services search page is not clearly differentiable. A fix could be to add text at the bottom of the icons to clearly state what the icon represents.
