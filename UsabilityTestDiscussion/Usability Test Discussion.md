@@ -14,7 +14,7 @@ These questions focus on the common theme of the users ability to use the app, a
 Users scanned from top to bottom of each page as expected, but this sometimes meant missing items closer to the bottom. The best example of this was that putting the search bar at the bottom rather than the top for touch hierarchy made a few users take a while to find it. Interestingly, this was reflected only in the Recorder's notes from testing, and not at all in user feedback. Users consistently said they did not find the system cumbersome to use, and there was only one piece of written feedback saying the placement of these elements was confusing.
 
 ![Question 8: I found the system very cumbersome to use													](Images/Question8.png)
-![Question: What changes would you like to see in this app?												](Images/SearchBarResults.png)
+![Question: What changes would you like to see in this app?												](Images/SearchbarResults.png)
 
 This may mean that this slow first-time finding of elements on the bottom of the screen was a lower priority for most users than we expected. It may also be a limitation of the survey, as any momentary frustration at this would not be remembered by the end of the test. This could be solved by asking specific questions about the time taken to find UI elements, either at the end of the SUS survey or after the relevant tasks.
 
