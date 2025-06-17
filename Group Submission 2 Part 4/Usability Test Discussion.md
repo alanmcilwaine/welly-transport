@@ -14,6 +14,7 @@
 
 - The most consistent user feedback is that stops and service icon in the services search page is not clearly differentiable. A fix could be to add text at the bottom of the icons to clearly state what the icon represents.
 
+Some of the most significant results include those from question one and five. The majority of users who tested our design gave us the same result for these questions. For those who didn’t align with the majority's consensus, their result was only one degree of opinion away from the majority. These results were that most users agreed that they would use the system frequently and that the systems functions were well integrated, for question one and five respectively. 
 
 
 
