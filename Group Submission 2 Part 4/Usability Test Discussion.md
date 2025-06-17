@@ -22,7 +22,8 @@ This may mean that this slow first-time finding of elements on the bottom of the
 
 
 
-Some of the most significant results include those from question one and five. The majority of users who tested our design gave us the same result for these questions. For those who didn’t align with the majority's consensus, their result was only one degree of opinion away from the majority. These results were that most users agreed that they would use the system frequently and that the systems functions were well integrated, for question one and five respectively. 
+Some of the most significant results include those from question one and five. The majority of users who tested our design gave us the same result for these questions. For those who didn’t align with the majority's consensus, their result was only one degree of opinion away from the majority. These results were that most users agreed that they would use the system frequently and that the systems functions were well integrated, for question one and five respectively. Question eight also has very consistent results from our users, but with slightly further outliers than that of question one and five. The majority of users disagreed with the notion that the system is very cumbersome to use, with outliers either agreeing or strongly disagreeing with the notion. 
+
 
 
 
