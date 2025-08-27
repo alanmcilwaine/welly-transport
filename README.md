@@ -1,10 +1,11 @@
 # Welly Transport App!
 Welcome to our prototype of the transport app built for Wellington. Here are some of our designs from the interactable prototype.
-![Homepage](Images/Homepage.png)
-![Services](Images/Services.png)
 
 # Prototype Link
 https://www.figma.com/proto/YTZG4wpHqOm3zaqFoJ5i6C/Designs-re-do?node-id=1-2326&t=USyhwMO6xF96u1YV-1
+
+![Homepage](Images/Homepage.png)
+![Services](Images/Services.png)
 
 # Usability Testing Form (SUS Scale)
 [Editing form](https://docs.google.com/forms/d/1_TPhq04uWkL6Eqsrghqg4PjEJfSAYxX0xpPBdV2swzA/)
